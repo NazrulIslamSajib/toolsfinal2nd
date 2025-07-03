@@ -1,3 +1,4 @@
+/*
 import React from 'react';
 const About = () => (
   <section id="about" className="py-5">
@@ -22,5 +23,5 @@ const About = () => (
     </div>
   </section>
 );
-
 export default About;
+*/
